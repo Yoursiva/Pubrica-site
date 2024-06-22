@@ -1,0 +1,266 @@
+body{
+	padding:0px;
+	margin:0px;
+	font-family:"Montserrat, Arial, Tahoma, sans-serif";
+	}
+#baseclass{
+	max-width: 100% !important;
+    width: 100% !important;
+    margin: 0 !important;
+	}
+#header{
+	width:100%;
+	height:115px;
+	}
+#contactinfo{
+	width:98%;
+	height:45px;
+	background-color:#2C2C2C;
+	padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+	}
+.contact_details{
+	margin-block-start: auto;
+	margin-block-end: auto;
+	padding-inline-start: inherit;
+	color: #bbbbbb;
+	float:left;
+	width:88%;
+	}
+
+.contact_details li,#menuopts li{
+	display: inline-block;
+    margin-right: 10px;
+    padding: 13px 0;  
+	}
+.contact_details a{
+	color:white !important;
+	text-decoration:none;
+	}
+#social-menu{
+	padding:13px 0;
+	}
+#social-menu a{
+	color:white !important;
+	text-decoration:none;
+	margin-right: 10px;
+	}
+#menu{
+	width:100%;
+	height:auto;
+	margin-top:10px;
+	}
+#menu_content{
+	width:82%;
+	float:left;
+	}
+#logo{
+	margin: 0 30px 0 60px;
+	float:left;
+	margin-top: -10px;
+	}
+#logo img{
+	max-height:64px;
+	vertical-align:middle;
+	}
+#menuopts ul{
+	margin-block-start: auto;
+	margin-block-end: auto;
+	padding-inline-start: inherit;
+	float:right;
+	}
+#menuopts li{
+	padding: 13px 13px;
+}
+#search{
+	width: 12%;
+    padding: 16px;
+    margin-left: 40px;
+    float: left;
+	}
+#search a{
+	color: white !important;
+    text-decoration: none;
+    background-color: #bb2424;
+    padding: 13px 36px;
+
+	}
+
+<!--content-->
+
+#content{
+	width:100%;
+	height:auto;
+}
+.slide{
+	width:100%;
+	height:456px;
+	}
+.animationblock{
+	background-color:black;
+	width:52%;
+	height:400px;
+
+	padding:55px 0px 0px 20px;
+	color:white;
+	    position: absolute;
+    top: 115px;
+	
+	}
+.animation{
+	width: 60%;
+    margin-left: 120px;
+	animation: myfirst 5s 2;
+	animation-direction: alternate;
+	}
+@keyframes myfirst {
+  0%   {left: 0px; top: 0px;}
+  25%  {left: 120px; top: 0px;}
+
+}
+.btns{
+	margin-left: 120px;
+	}
+.btn{
+	background-color:rgba(187, 36, 36, 0.75);
+    width: 280px;
+    height: 20px;
+    padding: 13px;
+    color: white;
+    display: block;
+	}
+a{
+	text-decoration:none;
+	}
+
+.section{
+	width:100%;
+	height:220px;
+}
+.left{
+	float:left;
+	width:35%;
+	color: #0796d6;
+    font-weight: 600;
+	}
+.right{
+	float:right;
+	width:60%;
+	font-weight: 500!important;
+	font-size:18px;
+	text-align:jusitfy;
+	}
+hr{
+	position: relative;
+    top: -24px;
+    left: 90px;
+    width: 84%;
+	background-color: #0796d6;
+    height: 2px;
+}
+.sectionimg img{
+	width:375px;
+	height:250px;
+	}
+.width30{
+	width:30%;height:auto;
+	float:left;
+	margin-right:40px;
+	}
+.imgcontent{
+	margin-top: -131px;
+	background-color: white;
+	position: relative;
+	margin-left: 30px;
+	padding: 41px;
+	border-top-left-radius: 20px;
+}
+#banner{
+	background:url("../Images/pubrica-bne-new.jpeg");
+	
+	height:285px;
+	background-repeat: no-repeat;
+	background-position: center top; 
+	padding-top: 20px;
+	padding-bottom: 0px;
+	}
+#banners{
+	background:url("../Images/newbr.webp");
+	height:285px;
+	background-repeat: no-repeat;
+	background-position: center top; 
+	padding-top: 20px;
+	padding-bottom: 0px;
+}
+#bannercontent{
+	padding: 10px;
+    background: white;
+    width: 700px;
+    height: 200px;
+	}
+.card_text{
+    padding: 38px 18px 35px 28px;
+    color: #fff;
+    background-color: #007b53;
+    margin-top: -16px;
+    width: 329px;
+    font-weight: bold;
+    font-size: 18px;
+	}
+.card_content{
+	background: #FFF;
+    width: 208px;
+    height: 48px;
+    padding: 9px;
+    border-bottom: 8px solid #18974c;
+    float: left;
+    margin-right: 20px;
+	}
+
+#footer{
+	width:100%;
+	height:550px;
+	clear:left;
+}
+.links{
+	background:#a0292d!important;
+	width:100%;
+	padding:40px 0;
+	height:410px;
+}
+#social{
+	margin-block-start: auto;
+    margin-block-end: auto;
+    padding-inline-start: inherit;
+    float: left;
+	text-align:center;
+}
+.common li,.social li{
+	display: inline-block;
+	color:white;
+	}
+.common{
+	width:18%;
+	float:left;
+	padding:10px
+	}
+h4{
+	color:#fff;
+	margin-left:40px;
+	}
+.common a{
+	color:white !important;
+	margin-left:10px;
+	}
+.copy {
+    width: 100%;
+    clear: left;
+    height: 140px;
+    background-color: #252121;
+    margin-top: -20px;
+    text-align: center;
+	color:#fff;
+	}
+
