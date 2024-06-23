@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <meta name='viewport' content='width=device-width, initial-scale=1'>
+  	
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/css/fontawesome.min.css">
+	
+	<link rel="shortcut icon" href="Images\tabicon.jpg">
+	<title>Pubrica | Scientific Medical Clinical Research Writing Editing & Manuscript Journal Publication Support Services Help</title>
+
+	<link href="CSS/style.css" rel="stylesheet">
+
+ </head>
+ <body>
+
+ <div id="baseclass">
+ 	<div id="header">
+			<div id="contactinfo">
+				<ul class="contact_details">
+						<li class="phone">
+							<i class="fas fa-phone"></i><a href="tel:+919884350006">+91 9884350006</a>
+						</li>
+						<li class="phone"><i class="fas fa-phone"></i><a href="tel:+1-972-502-9262">+1-972-502-9262</a>
+						</li>
+						<li class="mail"><i class="far fa-envelope"></i><a href="mailto:sales@pubrica.com">sales@pubrica.com</a>
+						</li>				
+				</ul>
+
+				<nav id="social-menu">
+					<a href="https://pubrica.com/contact-us/">Contact Us</a>
+					<a href="https://pubrica.com/insights/">Insights</a>
+				</nav>
+			</div>
+		<div id="menu">
+			<div id="menu_content">
+				<div id="logo">
+					<a href="#"><img src="Images\pubriclogo.png" /></a>
+				</div>
+				<div id="menuopts">
+					<ul>
+						<li>Services</li>
+						<li>About us</li>
+						<li>Our Quality</li>
+						<li>Industries</li>
+						<li>Pricing</li>
+						<li>Academy</li>
+					</ul>
+				</div>
+			</div>
+			<div id="search">
+					<i class="fa fa-search"></i>
+					<a href="">For Enquiry</a>
+			</div>
+		</div>
+
+	</div>
+
+	<div id="content">
+		<div class="slide">
+			<img src="Images\Research-service.jpg" style="width: 100%;height: 456px;">
+			<div class="animationblock">
+				<div class="animation">
+					<h2 style="font-size:25px;">Pubrica helps you share your research through High Imapct Editing &Publication Support</h2> 
+					<p style="font-size:16px;">Our Subject-matter specialist does end-to-end Support. All our services<br>are backed by our 100% satisfaction guarantee.</p><br><br>
+				</div>
+				<div class="btns">
+					<a href="" class="btn">Editing & Translation</a><br>
+					<a href="" class="btn">Publication Support</a>	
+				</div>
+			</div>
+		</div>
+		
+		<div class="section" style="margin-top: 45px;">
+			<div style="padding: 30px 130px 0px 130px;">
+				<div class="left">
+					<h1>Leveraging over 50 years of expertise in Medical Scientific Research, Analyses & Development.</h1>
+				</div>
+				<div class="right">
+					<p>We offer comprehensive solutions to support our clients, from the discovery of science to marketing communication while contributing to better patient outcomes to stay ahead of the dynamic healthcare landscape. Our expertise represents diverse fields, including life science, engineering, healthcare and medicine and representing across the globe. </p>
+				</div>
+			</div>
+		</div>
+
+		<div class="section" style="height:560px;">
+			<div style="padding: 30px 130px 0px 130px;">
+				<div>
+					<font style="text-transform: uppercase;font-size: 25px;font-weight: 600;color: #3b6fb6;font-family: 'Open Sans'!important;width: 200px;display: block;">What we do </font>
+					<hr></hr>
+					<p style="text-align:jusitfy; font-size:16px;">
+						We offer an array of services, including scientific and medical writing, editing, peer-reviewing, and data collection and analysis services that cover academic, scientific, regulatory business, medical, and technology. We  support in the development of the manuscripts and thesis, creating abstracts and posters, case reports, slide decks, and evidence-based response documents. We assist life science, pharmaceutical, medical device manufacturers, hospitals, healthcare providers, payers, technology companies, and research scholars in their quest for a credible scientific & evidence-based writing partner 
+					</p>
+				</div>
+				<div class="sectionimg">
+					<div class="width30">
+						<img src="Images\Research-service.jpg">
+						<div class="imgcontent">
+							<h3 style="font-weight: 700;line-height:1.25;font-size: 1.5rem;">
+								<span class="txt"><a href="">Research<br>Service </a></span>
+								<a href="#">&nbsp; 
+								<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+							</h3>
+							<p style="font-size:1rem;line-height:1.33;">Systematic review, meta- analyses, clinical literature review, evidence based literature review, case study analysis, experimental methodology.
+							</p>
+						</div>
+					</div>
+					<div class="width30">
+						<img src="Images\bokkf.jpg">
+						<div class="imgcontent">
+							<h3 style="font-weight: 700;line-height:1.25;font-size: 1.5rem;">
+								<span class="txt"><a href="">Research<br>Service </a></span>
+								<a href="#">&nbsp; 
+								<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+							</h3>
+							<p style="font-size:1rem;line-height:1.33;">Systematic review, meta- analyses, clinical literature review, evidence based literature review, case study analysis, experimental methodology.
+							</p>
+						</div>
+					</div>
+					<div class="width30">
+						<img src="Images\dml.jpg">
+						<div class="imgcontent">
+							<h3 style="font-weight: 700;line-height:1.25;font-size: 1.5rem;">
+								<span class="txt"><a href="">Research<br>Service </a></span>
+								<a href="#">&nbsp; 
+								<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+							</h3>
+							<p style="font-size:1rem;line-height:1.33;">Systematic review, meta- analyses, clinical literature review, evidence based literature review, case study analysis, experimental methodology.
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="section" style="margin-top: 45px; height:330px;" >
+			<div style="padding: 30px 130px 0px 130px;" id="banner">
+				<div id="bannercontent">
+					<h2 style="font-size: 28px!important;">Global Leader in Research,  Publishing and communication</h2>
+					<p>At Pubrica, our medical writers and editors develop medical, scientific, technical, regulatory and marketing communication documents as per the client's requirements.</p>
+					<a href="">Find out why
+					<svg width="24" height="24" xmlns="http://www.w3.org/2000/svg">
+					<path d="M0 12c0 6.627 5.373 12 12 12s12-5.373 12-12S18.627 0 12 0C5.376.008.008 5.376 0 12zm13.707-5.209l4.5 4.5a1 1 0 010 1.414l-4.5 4.5a1 1 0 01-1.414-1.414l2.366-2.367a.25.25 0 00-.177-.424H6a1 1 0 010-2h8.482a.25.25 0 00.177-.427l-2.366-2.368a1 1 0 011.414-1.414z" fill="" fill-rule="nonzero"></path>
+					</svg>
+					</a>
+				</div>
+			</div>
+		</div>
+
+		<div class="section" style="height: 660px;">
+
+			<div style="padding: 30px 130px 0px 130px;">
+				<div>
+					<font style="text-transform: uppercase;font-size: 25px;font-weight: 600;color: #3b6fb6;font-family: 'Open Sans'!important;width: 200px;display: block;">What we do </font>
+					<hr></hr>
+					<p style="text-align:jusitfy; font-size:16px;">
+						We offer an array of services, including scientific and medical writing, editing, peer-reviewing, and data collection and analysis services that cover academic, scientific, regulatory business, medical, and technology. We  support in the development of the manuscripts and thesis, creating abstracts and posters, case reports, slide decks, and evidence-based response documents. We assist life science, pharmaceutical, medical device manufacturers, hospitals, healthcare providers, payers, technology companies, and research scholars in their quest for a credible scientific & evidence-based writing partner 
+					</p>
+				</div>
+
+				<div class="sectionimg">
+					<div class="width30">
+						<img src="Images\Life-science-company.jpg">
+						<div style="margin-top:-20px; width:375px;">
+							<p  style="color:white!important; background: #1B4041;padding: 12px;">
+								<a class="card__link" href="" style="color: white;font-size: 21px;font-weight: 800;">Life Science companies 
+									<svg aria-hidden="true" class="vf-card__heading__icon | vf-icon vf-icon-arrow--inline-end" width="1em" height="1em" xmlns="http://www.w3.org/2000/svg" style="height: 30px;margin-bottom: -11px;">
+										<path d="M0 12c0 6.627 5.373 12 12 12s12-5.373 12-12S18.627 0 12 0C5.376.008.008 5.376 0 12zm13.707-5.209l4.5 4.5a1 1 0 010 1.414l-4.5 4.5a1 1 0 01-1.414-1.414l2.366-2.367a.25.25 0 00-.177-.424H6a1 1 0 010-2h8.482a.25.25 0 00.177-.427l-2.366-2.368a1 1 0 011.414-1.414z" fill="currentColor" fill-rule="nonzero"></path>
+									</svg>
+								</a>
+							</p>
+							<p class="card_text">Deep expertise in Experimental methodology</p>
+
+						 </div>
+					</div>
+					<div class="width30">
+						<img src="Images\pharmaceuticals.jpg">
+						<div style="margin-top:-20px; width:375px;">
+							<p  style="color:white!important; background: #1B4041;padding: 12px;">
+							<a class="card__link" href="" style="color: white;font-size: 21px;font-weight: 800;">Pharmaceutical    <svg aria-hidden="true" class="vf-card__heading__icon | vf-icon vf-icon-arrow--inline-end" width="1em" height="1em" xmlns="http://www.w3.org/2000/svg" style="height: 30px;margin-bottom: -11px;"><path d="M0 12c0 6.627 5.373 12 12 12s12-5.373 12-12S18.627 0 12 0C5.376.008.008 5.376 0 12zm13.707-5.209l4.5 4.5a1 1 0 010 1.414l-4.5 4.5a1 1 0 01-1.414-1.414l2.366-2.367a.25.25 0 00-.177-.424H6a1 1 0 010-2h8.482a.25.25 0 00.177-.427l-2.366-2.368a1 1 0 011.414-1.414z" fill="currentColor" fill-rule="nonzero"></path></svg>
+							</a>
+							</p>
+							<p class="card_text">Communicate the value of your drug </p>
+						  </div>
+						
+					</div>
+					<div class="width30">
+						<img src="Images\Medical-device.jpg">
+						<div style="margin-top:-20px; width:375px;">
+							<p  style="color:white!important; background: #1B4041;padding: 12px;">
+							<a class="card__link" href="" style="color: white;font-size: 21px;font-weight: 800;">Medical devices <svg aria-hidden="true" class="vf-card__heading__icon | vf-icon vf-icon-arrow--inline-end" width="1em" height="1em" xmlns="http://www.w3.org/2000/svg" style="height: 30px;margin-bottom: -11px;"><path d="M0 12c0 6.627 5.373 12 12 12s12-5.373 12-12S18.627 0 12 0C5.376.008.008 5.376 0 12zm13.707-5.209l4.5 4.5a1 1 0 010 1.414l-4.5 4.5a1 1 0 01-1.414-1.414l2.366-2.367a.25.25 0 00-.177-.424H6a1 1 0 010-2h8.482a.25.25 0 00.177-.427l-2.366-2.368a1 1 0 011.414-1.414z" fill="currentColor" fill-rule="nonzero"></path></svg>
+							</a>
+							</p>
+							<p class="card_text">Develop exclusive marketing communication materials & PMS</p>
+						  </div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+		<div class="section" style="height:140px;padding-top: 30px;padding-bottom: 0px;background-color: #dbdbdb;">
+			<div style="padding: 30px 130px 0px 130px;">
+					<div class="card_content">
+						<p class="card_heading">
+							<a class="card_link" href="" style="color:#3b6fb6;font-size:20px;">Pathology<svg aria-hidden="true" class="vf-card__heading__icon | vf-icon vf-icon-arrow--inline-end" width="1em" height="1em" xmlns="http://www.w3.org/2000/svg" style="font-size: 28px;height: 30px;margin-bottom: -11px;"><path d="M0 12c0 6.627 5.373 12 12 12s12-5.373 12-12S18.627 0 12 0C5.376.008.008 5.376 0 12zm13.707-5.209l4.5 4.5a1 1 0 010 1.414l-4.5 4.5a1 1 0 01-1.414-1.414l2.366-2.367a.25.25 0 00-.177-.424H6a1 1 0 010-2h8.482a.25.25 0 00.177-.427l-2.366-2.368a1 1 0 011.414-1.414z" fill="currentColor" fill-rule="nonzero"></path></svg>
+							</a>
+						</p>
+
+					</div>
+
+					<div class="card_content">
+						<p class="card_heading">
+							<a class="card_link" href="" style="color:#3b6fb6;font-size:20px;">Pharmacology<svg aria-hidden="true" class="vf-card__heading__icon | vf-icon vf-icon-arrow--inline-end" width="1em" height="1em" xmlns="http://www.w3.org/2000/svg" style="font-size: 28px;height: 30px;margin-bottom: -11px;"><path d="M0 12c0 6.627 5.373 12 12 12s12-5.373 12-12S18.627 0 12 0C5.376.008.008 5.376 0 12zm13.707-5.209l4.5 4.5a1 1 0 010 1.414l-4.5 4.5a1 1 0 01-1.414-1.414l2.366-2.367a.25.25 0 00-.177-.424H6a1 1 0 010-2h8.482a.25.25 0 00.177-.427l-2.366-2.368a1 1 0 011.414-1.414z" fill="currentColor" fill-rule="nonzero"></path></svg>
+							</a>
+						</p>
+
+					</div>
+
+					<div class="card_content">
+						<p class="card_heading">
+							<a class="card_link" href="" style="color:#3b6fb6;font-size:20px;">Nephrology <svg aria-hidden="true" class="vf-card__heading__icon | vf-icon vf-icon-arrow--inline-end" width="1em" height="1em" xmlns="http://www.w3.org/2000/svg" style="font-size: 28px;height: 30px;margin-bottom: -11px;"><path d="M0 12c0 6.627 5.373 12 12 12s12-5.373 12-12S18.627 0 12 0C5.376.008.008 5.376 0 12zm13.707-5.209l4.5 4.5a1 1 0 010 1.414l-4.5 4.5a1 1 0 01-1.414-1.414l2.366-2.367a.25.25 0 00-.177-.424H6a1 1 0 010-2h8.482a.25.25 0 00.177-.427l-2.366-2.368a1 1 0 011.414-1.414z" fill="currentColor" fill-rule="nonzero"></path></svg>
+							</a>
+						</p>
+
+					</div>
+
+					<div class="card_content">
+						<p class="card_heading">
+							<a class="card_link" href="" style="color:#3b6fb6;font-size:20px;">Genomics<svg aria-hidden="true" class="vf-card__heading__icon | vf-icon vf-icon-arrow--inline-end" width="1em" height="1em" xmlns="http://www.w3.org/2000/svg" style="font-size: 28px;height: 30px;margin-bottom: -11px;"><path d="M0 12c0 6.627 5.373 12 12 12s12-5.373 12-12S18.627 0 12 0C5.376.008.008 5.376 0 12zm13.707-5.209l4.5 4.5a1 1 0 010 1.414l-4.5 4.5a1 1 0 01-1.414-1.414l2.366-2.367a.25.25 0 00-.177-.424H6a1 1 0 010-2h8.482a.25.25 0 00.177-.427l-2.366-2.368a1 1 0 011.414-1.414z" fill="currentColor" fill-rule="nonzero"></path></svg>
+							</a>
+						</p>
+
+					</div>
+
+					
+					<div class="card_content">
+						<p class="card_heading">
+							<a class="card_link" href="" style="color:#3b6fb6;font-size:20px;">View all <svg aria-hidden="true" class="vf-card__heading__icon | vf-icon vf-icon-arrow--inline-end" width="1em" height="1em" xmlns="http://www.w3.org/2000/svg" style="font-size: 28px;height: 30px;margin-bottom: -11px;"><path d="M0 12c0 6.627 5.373 12 12 12s12-5.373 12-12S18.627 0 12 0C5.376.008.008 5.376 0 12zm13.707-5.209l4.5 4.5a1 1 0 010 1.414l-4.5 4.5a1 1 0 01-1.414-1.414l2.366-2.367a.25.25 0 00-.177-.424H6a1 1 0 010-2h8.482a.25.25 0 00.177-.427l-2.366-2.368a1 1 0 011.414-1.414z" fill="currentColor" fill-rule="nonzero"></path></svg>
+							</a>
+						</p>
+
+					</div>
+				
+			</div>
+		</div>
+
+		<div class="section" style="height:150px;">
+			<div style="padding: 30px 130px 0px 130px;">
+				<div>
+					<font style="text-transform: uppercase;font-size: 25px;font-weight: 600;color: #3b6fb6;font-family: 'Open Sans'!important;display: block;">THE ADVANTAGES OF WORKING WITH US…
+					</font>
+					<hr style="left:270px;width:55%;"></hr>
+					<p style="text-align:jusitfy; font-size:16px;">
+						Pubrica works with you to create successful scientific and medical documents with our best minds and passion.  
+					</p>
+				</div>
+			</div>
+		</div>
+
+		<div class="section" style="height:600px;">
+			<div style="padding: 30px 130px 0px 130px;" id="banners">
+				<div style="width:100%">
+						<div class="card_content" style="height:auto;width:30%;">
+							<p class="card_heading">
+								<a class="card_link" href="" style="color:#3b6fb6;font-size:20px;">Our Experts<svg aria-hidden="true" class="vf-card__heading__icon | vf-icon vf-icon-arrow--inline-end" width="1em" height="1em" xmlns="http://www.w3.org/2000/svg" style="font-size: 28px;height: 30px;margin-bottom: -11px;"><path d="M0 12c0 6.627 5.373 12 12 12s12-5.373 12-12S18.627 0 12 0C5.376.008.008 5.376 0 12zm13.707-5.209l4.5 4.5a1 1 0 010 1.414l-4.5 4.5a1 1 0 01-1.414-1.414l2.366-2.367a.25.25 0 00-.177-.424H6a1 1 0 010-2h8.482a.25.25 0 00.177-.427l-2.366-2.368a1 1 0 011.414-1.414z" fill="currentColor" fill-rule="nonzero"></path></svg>
+								</a>
+							</p>
+							<p style="font-size: 19px;font-weight: 400;line-height: 1.421;text-align:justify;">Over 500+ academic editors, medical writers, and industry veterans across the globe have been onboarded based on the custom needs of our clients.  We can also accommodate ad hoc requests and fluctuations.. </p>
+						</div>
+						<div class="card_content" style="height:auto;width:30%;">
+							<p class="card_heading">
+								<a class="card_link" href="" style="color:#3b6fb6;font-size:20px;">Compliances<svg aria-hidden="true" class="vf-card__heading__icon | vf-icon vf-icon-arrow--inline-end" width="1em" height="1em" xmlns="http://www.w3.org/2000/svg" style="font-size: 28px;height: 30px;margin-bottom: -11px;"><path d="M0 12c0 6.627 5.373 12 12 12s12-5.373 12-12S18.627 0 12 0C5.376.008.008 5.376 0 12zm13.707-5.209l4.5 4.5a1 1 0 010 1.414l-4.5 4.5a1 1 0 01-1.414-1.414l2.366-2.367a.25.25 0 00-.177-.424H6a1 1 0 010-2h8.482a.25.25 0 00.177-.427l-2.366-2.368a1 1 0 011.414-1.414z" fill="currentColor" fill-rule="nonzero"></path></svg>
+								</a>
+							</p>
+							<p style="font-size: 19px;font-weight: 400;line-height: 1.421;">All writers are certified by American Medical Writing Association (AMWA) and European Medical Writing Association (EMWA). Compliance with International Conference on Harmonization (ICH), and more.</p>
+
+						</div>
+						<div class="card_content" style="height:auto;width:30%;">
+							<p class="card_heading">
+								<a class="card_link" href="" style="color:#3b6fb6;font-size:20px;">Therapeutic Expertise <svg aria-hidden="true" class="vf-card__heading__icon | vf-icon vf-icon-arrow--inline-end" width="1em" height="1em" xmlns="http://www.w3.org/2000/svg" style="font-size: 28px;height: 30px;margin-bottom: -11px;"><path d="M0 12c0 6.627 5.373 12 12 12s12-5.373 12-12S18.627 0 12 0C5.376.008.008 5.376 0 12zm13.707-5.209l4.5 4.5a1 1 0 010 1.414l-4.5 4.5a1 1 0 01-1.414-1.414l2.366-2.367a.25.25 0 00-.177-.424H6a1 1 0 010-2h8.482a.25.25 0 00.177-.427l-2.366-2.368a1 1 0 011.414-1.414z" fill="currentColor" fill-rule="nonzero"></path></svg>
+								</a>
+							</p>
+							<p style="font-size: 19px;font-weight: 400;line-height: 1.421;">We work across a wide range of therapeutic areas, e.g., neurology or cardiology. We work with more than 200 specializations with expertise in Science, Technology, Engineering and Mathematics (STEM).</p>
+
+						</div>
+				</div>
+				<div style="width:100%; position: relative;top: 20px;">
+						<div class="card_content" style="height:auto;width:30%;">
+							<p class="card_heading">
+								<a class="card_link" href="" style="color:#3b6fb6;font-size:20px;">Global Partnership <svg aria-hidden="true" class="vf-card__heading__icon | vf-icon vf-icon-arrow--inline-end" width="1em" height="1em" xmlns="http://www.w3.org/2000/svg" style="font-size: 28px;height: 30px;margin-bottom: -11px;"><path d="M0 12c0 6.627 5.373 12 12 12s12-5.373 12-12S18.627 0 12 0C5.376.008.008 5.376 0 12zm13.707-5.209l4.5 4.5a1 1 0 010 1.414l-4.5 4.5a1 1 0 01-1.414-1.414l2.366-2.367a.25.25 0 00-.177-.424H6a1 1 0 010-2h8.482a.25.25 0 00.177-.427l-2.366-2.368a1 1 0 011.414-1.414z" fill="currentColor" fill-rule="nonzero"></path></svg>
+								</a>
+							</p>
+							<p style="font-size: 19px;font-weight: 400;line-height: 1.421;">By partnering with Pubrica, Publishers, universities, and research groups can get special discounts on all end-to-end editorial and journal publication services. </p>
+						</div>
+						<div class="card_content" style="height:auto;width:30%;">
+							<p class="card_heading">
+								<a class="card_link" href="" style="color:#3b6fb6;font-size:20px;">Our Quality <svg aria-hidden="true" class="vf-card__heading__icon | vf-icon vf-icon-arrow--inline-end" width="1em" height="1em" xmlns="http://www.w3.org/2000/svg" style="font-size: 28px;height: 30px;margin-bottom: -11px;"><path d="M0 12c0 6.627 5.373 12 12 12s12-5.373 12-12S18.627 0 12 0C5.376.008.008 5.376 0 12zm13.707-5.209l4.5 4.5a1 1 0 010 1.414l-4.5 4.5a1 1 0 01-1.414-1.414l2.366-2.367a.25.25 0 00-.177-.424H6a1 1 0 010-2h8.482a.25.25 0 00.177-.427l-2.366-2.368a1 1 0 011.414-1.414z" fill="currentColor" fill-rule="nonzero"></path></svg>
+								</a>
+							</p>
+							<p style="font-size: 19px;font-weight: 400;line-height: 1.421;">We are ISO 9001:2015 certified organization and follow the Uniform Requirements of the International Committee of Medical Journal Editors (ICMJE. We assure 99% quality output delivery.. </p>
+						</div>
+						<div class="card_content" style="height:auto;width:30%;">
+							<p class="card_heading">
+								<a class="card_link" href="" style="color:#3b6fb6;font-size:20px;">Privacy & Confidentiality <svg aria-hidden="true" class="vf-card__heading__icon | vf-icon vf-icon-arrow--inline-end" width="1em" height="1em" xmlns="http://www.w3.org/2000/svg" style="font-size: 28px;height: 30px;margin-bottom: -11px;"><path d="M0 12c0 6.627 5.373 12 12 12s12-5.373 12-12S18.627 0 12 0C5.376.008.008 5.376 0 12zm13.707-5.209l4.5 4.5a1 1 0 010 1.414l-4.5 4.5a1 1 0 01-1.414-1.414l2.366-2.367a.25.25 0 00-.177-.424H6a1 1 0 010-2h8.482a.25.25 0 00.177-.427l-2.366-2.368a1 1 0 011.414-1.414z" fill="currentColor" fill-rule="nonzero"></path></svg>
+								</a>
+							</p>
+							<p style="font-size: 19px;font-weight: 400;line-height: 1.421;">We comply with the GDPR data protection policy by ensuring stringent privacy &amp; confidentiality of your data. We also follow COPE</p>
+
+						</div>
+				</div>
+			</div>
+		</div>
+
+		
+		<div class="section" style="height:520px;">
+			<div style="padding: 30px 130px 0px 130px;">
+				<div>
+					<font style="text-transform: uppercase;font-size: 25px;font-weight: 600;color: #3b6fb6;font-family: 'Open Sans'!important;width:200px;display: block;"> Latest News
+					</font>
+					<p style="text-align:jusitfy; font-size:16px;">
+						Explore our latest news, tips, advice and fresh perspectives publishing guidelines, procedures, roadmaps, etc. 
+					</p>
+				</div>
+				<div style="width:100%">
+						<div class="card_content" style="height:auto;width:28%;border: 1px solid lightgray;padding:3px;">
+							<img src="Images\covid.jpg"  style="max-width:100%"/>
+							<h3>Causes of Prolonged Use of Masks during Covid- 19 Pandemic</h3>
+							<p style="font-size: 14px;font-weight: 400;line-height: 1.421;text-align:justify;">Most of those polled had headaches, rash, acne, skin disintegration, and poor cognition after using N95 and surgical masks for an extended period during COVID-19. As the second wave of COVID-19 is likely.. </p>
+						</div>
+						<div class="card_content" style="height:auto;width:28%;border: 1px solid lightgray;padding:3px">
+							<img src="Images\medical-device-blog.png" style="max-width:100%;" />
+							<h3>Common Challenges for Successful Clinical Monitoring of Medical Device </h3>
+							<p style="font-size: 14px;font-weight: 400;line-height: 1.421;">Clinical trial monitoring services are critical for medical progress. Medical technology advancements in recent decades have resulted in earlier and more accurate diagnoses, more successful treatments, and the opportunity ..</p>
+
+						</div>
+						<div class="card_content" style="height:auto;width:28%;border: 1px solid lightgray;padding:3px">
+							<img src="Images\Parkinson-blog.jpg" style="max-width:100%;" />
+							<h3>Parkinson’s disease management technologies and challenges </h3>
+							<p style="font-size: 14px;font-weight: 400;line-height: 1.421;">The miniaturization, complexity, proliferation, and accessibility of technology enable capturing inaccessible events in Parkinson’s disease (PD). However, additional information has not resulted in a better knowledge of disease complexity to meet diagnostic and therapeutic demands.</p>
+
+						</div>
+			</div>
+		</div>
+	</div>
+
+	<div id="footer">
+		
+		<div class="links">
+			<div style="padding: 30px 130px 0px 130px;">
+				<div>
+					<div class="common">
+						<a href="#"><img src="Images\pubriclogo.png"  style="max-width: 90%!important;"/></a>
+
+						<h5 style=" margin-top: 18px;color:#fff;">CONNECT WITH PUBRICA</h5>
+						<p style="color: #fff;padding-right: 9px;text-align: left;font-weight: 400 !important;font-size: 13px;line-height: 14px;">Pubrica offers high quality evidence-based global research, analyses, publication, and scientific communication support services to researchers and industries across the globe. Our growing team is comprised of researchers and industry professionals working together to resolve the most critical issues facing scientific publishing. 
+						</p>
+					</div>
+					<div class="common">
+						<h4>Services</h4>
+						<ul style="line-height: 21px; font-size:13px !important;color:white;">
+								<li><i class="fa fa-caret-right"></i> <a href="">Research Services</a></li>
+								<li><i class="fa fa-caret-right"></i><a href="">Physician Writing</a></li>
+								<li><i class="fa fa-caret-right"></i> <a href="">Publication Support </a></li>
+								<li><i class="fa fa-caret-right"></i> <a href="">Scientific Communication</a></li>
+								<li><i class="fa fa-caret-right"></i> <a href="">Editing and Translation</a></li>
+								<li><i class="fa fa-caret-right"></i> <a href="">Data Analytics </a></li>
+								<li><i class="fa fa-caret-right"></i> <a href="">Education Content</a></li>
+								<li><i class="fa fa-caret-right"></i> <a href="">Medical Data Collection</a></li>
+						</ul>
+					</div>
+					<div class="common">
+						<h4>About us</h4>
+						<ul style="line-height: 21px; font-size:13px !important;color:white;">
+								<li><i class="fa fa-caret-right"></i> <a href="">Meet the Team</a></li>
+								<li><i class="fa fa-caret-right"></i><a href="">Subject areas</a></li>
+								<li><i class="fa fa-caret-right"></i> <a href="">Therapeutic Expertise</a></li>
+								<li><i class="fa fa-caret-right"></i> <a href="">Strategic Partnership</a></li>
+								<li><i class="fa fa-caret-right"></i> <a href=""> Contact us</a></li><br>
+								<li><i class="fa fa-caret-right"></i> <a href="">Carrers</a></li><br>
+								<li><i class="fa fa-caret-right"></i> <a href="">Sitemap</a></li><br>
+								<li><i class="fa fa-caret-right"></i> <a href="">Customer Center</a></li>
+						</ul>
+					</div>
+					<div class="common">
+						<h4>More</h4>
+						<ul style="line-height: 21px; font-size:13px !important;color:white;">
+								<li><i class="fa fa-caret-right"></i> <a href="">Subjects</a></li><br>
+								<li><i class="fa fa-caret-right"></i><a href="">Industries</a></li><br>
+								<li><i class="fa fa-caret-right"></i> <a href="">Global Partner Program </a></li>
+								<li><i class="fa fa-caret-right"></i> <a href="">Referral Partner Program </a></li>
+								<li><i class="fa fa-caret-right"></i> <a href="">FAQ</a></li><br>
+								<li><i class="fa fa-caret-right"></i> <a href="">Testimonials</a></li><br>
+								<li><i class="fa fa-caret-right"></i> <a href="">Academy</a></li><br>
+								<li><i class="fa fa-caret-right"></i> <a href="">Our SampleWork</a></li>
+						</ul>
+						<a href="#"><img src="Images\dandbthumb-1.png"  style="max-width: 50%!important;"/></a>
+						<a href="#"><img src="Images\iso-9001-2015-min.png"  style="max-width: 37%!important;"/></a>
+					</div>
+					<div class="common">
+						<a href="#"><img src="Images\LOGO.jpg"  style="max-width: 90%!important;"/></a>
+						<br><br><br>
+						<a href="#"><img src="Images\LOGO-COPE-new.jpg" style="max-width: 90%!important;"/></a>
+						<br><br><br>
+						<p style="color: #fff;">Committed to the COPE &amp; ICMJE guidelines</p>
+					</div>
+				</div>
+				<div style="width:100%;clear:left;">
+					<a href="#"><img src="Images\trusted-site.png"  style="max-width: 10%!important;     margin-left: 55px;"/></a>
+						<a href="#"><img src="Images\siteseal_gd_3_h_d_m.gif"  style="max-width: 10%!important;"/></a>
+						<a href="#"><img src="Images\mcfee.jpg"  style="max-width: 8%!important;"/></a>
+				</div>
+			</div>
+
+		</div>
+		<div class="copy">
+			<div style="padding:10px 130px 10px 130px;">
+				<p>Copyright © 2024 - Pubrica is a trading name of Guires, a company registered in England, Wales and India.</p>
+				<p><a href="#" style="color:#fff;">Terms & Conditions | </a> <a href="#" style="color:#fff;">Privacy Policy </a></p>
+				<ul class="social">
+					<li class="facebook">
+						<a target="_blank" href="" title="Facebook">
+							<i class="fa fa-facebook" aria-hidden="true"></i>
+						</a>
+					</li>
+					<li class="twitter">
+						<a target="_blank" href="" title="Twitter">
+							<i class="fa fa-twitter" aria-hidden="true"></i>
+						</a>
+					</li>
+					<li class="youtube">
+						<a target="_blank" href="" title="YouTube">
+							<i class="fa fa-youtube-play" aria-hidden="true"></i>
+						</a></li>
+					<li class="linkedin">
+						<a target="_blank" href="" title="LinkedIn">
+							<i class="fa fa-linkedin" aria-hidden="true"></i>
+						</a>
+					</li>
+					<li class="pinterest">
+						<a target="_blank" href="" title="Pinterest">
+							<i class="fa fa-pinterest" aria-hidden="true"></i>
+						</a>
+					</li>
+					<li class="instagram">
+						<a target="_blank" href="" title="Instagram">
+							<i class="fa fa-instagram" aria-hidden="true"></i>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+</div>
+  
+ </body>
+</html>
